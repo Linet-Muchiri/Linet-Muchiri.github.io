@@ -6,8 +6,7 @@
 ---
 
 ### 🔗 **Live Demo**
-👉 [View Portfolio](https://Linet-Muchiri.github.io/portfolio/)  
-*(Replace this link with your GitHub Pages URL)*
+👉 👉 [View Portfolio](https://linet-muchiri.github.io/)
 
 ---
 
